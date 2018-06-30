@@ -19,7 +19,7 @@ public class jdbc {
 //          String user="issue";
 //          String pass="qwerty12";
           String user="root";
-          String pass="9423644012";
+          String pass="";
           String d = "com.mysql.jdbc.Driver";
           Connection c;
           Statement s;
