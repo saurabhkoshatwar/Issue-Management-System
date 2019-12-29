@@ -31,4 +31,7 @@ like teaching, sanitation, etc
 # Class Diagram
 ![Class Diagram](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/IMSClassDiagram.jpg)
 
+# Issue State Diagram
+![Issue State Diagram](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/IssueStateDiagram.jpg)
+
 
