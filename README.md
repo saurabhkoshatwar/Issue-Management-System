@@ -10,3 +10,8 @@ like teaching, sanitation, etc
  
 # Architecture
 ![Architecture](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/Architecture2.jpg)
+
+# Class Diagram
+![Class Diagram](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/IMSClassDiagram.jpg)
+
+
