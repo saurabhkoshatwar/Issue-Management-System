@@ -10,9 +10,19 @@ like teaching, sanitation, etc
  ## Concepts Used
  - Inheritance
    - Diffent Roles of User eg Student,Faculty,Admin
- - Many students are not able to raise some issues directly,So this system helps students to raise their issues anonymously 
- - It provides admin panel to monitor these issues.
- - It is a Client-Server application
+- Encapsulation
+- Polymorphism
+ - Collections
+   - IssueList
+- JDBC
+   - Used for Java database connectivity and execute the query with the database
+- Socket Programming
+   - Communication between Client and Sever
+- Multithreading
+   - New Thread is created when new client is connected to Sever
+   
+   
+
  
  
 # Architecture
