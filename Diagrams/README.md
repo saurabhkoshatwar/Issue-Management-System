@@ -14,7 +14,6 @@
 
 # UseCase Diagrams
 ![UseCase Diagram](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/usecase_ims.png)
-![UseCase Diagram](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/use_case_2_ims.png)
 
 # Activity Diagram
 ![Activity Diagram](https://github.com/saurabhkoshatwar/Issue-Management-System/blob/master/Diagrams/ims_activity.png)
